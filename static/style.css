@@ -1,0 +1,57 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+/* h1 {
+    color: black;
+    margin: 0%;
+} */
+
+h2 {
+    font-size: large;
+}
+
+a {
+    font-size: medium;
+    color: blue;
+}
+
+img {
+    max-width: 66%;
+    max-height: 10%;
+    justify-content: center;
+}
+
+
+body section header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: rgb(227, 189, 143);
+    /* margin: 0px; */
+}
+
+body main section header {
+    background: white;
+}
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: rgb(227, 189, 143);
+    height: 3rem;
+    font-size: 15px;
+    position: relative;
+}
+
+footer p {
+
+    text-align: justify;
+
+}
